@@ -1,7 +1,7 @@
 /**
  * Vandan Patadia
- * Auburn-ID: 904331026
- * File-Name: project1_Patadia_904331026.cpp
+ * Auburn Software Engineering Student
+ * File-Name: project1_Patadia.cpp
  * 
  * How to run the code: 
  * {IN TERMINAL}
